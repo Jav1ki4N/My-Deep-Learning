@@ -4,7 +4,7 @@ YOLO use PyTorch model by default, but Rockchip SOC's NPU can only process `.rkn
 
 To install **RKNN-Toolkit2**, see [**here**](https://github.com/airockchip/rknn-toolkit2).
 
-[**rknn-model-zoo**](https://g**ithub.com/airockchip/rknn_model_zoo) also provides some deployment examples as refs.
+[**rknn-model-zoo**](https://github.com/airockchip/rknn_model_zoo) also provides some deployment examples as refs.
 
 # My Environment
 
